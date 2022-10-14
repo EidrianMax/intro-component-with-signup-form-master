@@ -26,7 +26,7 @@ body {
   font-weight: 400;
   color: hsl(0, 0%, 100%);
   background-color: var(--red);
-  background-image: url(/assets/images/bg-intro-mobile.png);
+  background-image: url(./assets/images/bg-intro-mobile.png);
 }
 
 h1,
@@ -161,7 +161,7 @@ button {
 /* Tablet and Desktop */
 @media (min-width: 48em) {
   body {
-    background-image: url(/assets/images/bg-intro-desktop.png);
+    background-image: url(./assets/images/bg-intro-desktop.png);
     min-height: 100vh;
     display: flex;
     justify-content: center;
