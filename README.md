@@ -32,12 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/design/DRIFT-VIDEO-3435828-3540401-1665737189.gif)
-![](https://giant.gfycat.com/CompetentCostlyCrownofthornsstarfish.mp4)
-
-<iframe src="https://www.loom.com/embed/e443e7605ee14c25beb5af080c12ade9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-
-<div style='position:relative; padding-bottom:calc(65.20% + 44px)'><iframe src='https://gfycat.com/ifr/CompetentCostlyCrownofthornsstarfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/competentcostlycrownofthornsstarfish-the-orville-well-done-celebrate-clapping">via Gfycat</a></p>
+![](/design/2022-10-14%2000-21-38.gif)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
