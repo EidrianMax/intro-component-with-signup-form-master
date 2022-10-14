@@ -47,4 +47,6 @@ form.addEventListener('submit', (event) => {
     passwordIcon.classList.add('d-block')
     passwordParagraph.classList.add('d-block')
   }
+
+  form.reset()
 })
